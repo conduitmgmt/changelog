@@ -1,0 +1,12 @@
+Conduit Management Changelog 23 April 2024
+
+Added:
+    - Changelog Introduction
+    - Conduit Management Restructuring Process Started
+
+Fixed:
+    - Website; removed junk code
+    - Color scheme of new Conduit Management
+
+Depreciated:
+    - N/A
